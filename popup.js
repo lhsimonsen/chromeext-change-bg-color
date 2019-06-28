@@ -32,5 +32,4 @@ chrome.storage.sync.get('bgcolor', function(data) {
 chrome.storage.sync.get('color', function(data) {
   changeColor.style.color = data.color;
   changeColor.setAttribute('data-color', data.color);
-  changeColor.innerText = data.color;
 });

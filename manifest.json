@@ -1,7 +1,7 @@
 {
-  "name": "Image exif viewer",
+  "name": "Chrome api exploration",
   "version": "1.0",
-  "description": "An image exif viewer",
+  "description": "A Chrome extension exploring a few Chrome api:s",
   "permissions": [
     "notifications",
     "activeTab",
